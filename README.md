@@ -4,7 +4,7 @@
 
 
 <h4>Functionality : </h4>
-<p>User can select Images from Phone's Gallery. The Selected by User are stored in seperated Directory Folder. Similar Functinality Like a Section of Favourites.
+<p>User can select Images from Phone's Gallery. The Image Selected by User are stored in seperated Directory Folder. Similar Functinality Like a Section of Favourites.
 </p>
 
 
